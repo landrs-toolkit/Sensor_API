@@ -18,11 +18,16 @@ LANDRS Sensor API
      :target: https://pyup.io/repos/github/r4space/LANDRS_Sensor_API/
      :alt: Updates
 
+Installation
+------------
+pip3 install -r requirements_dev.txt
+sudo apt-get install gcc python3-dev libxml2-dev libxslt-dev
 
 
 DRS API for connecting a range of sensor types to the LANDRS data annotation toolkit
 
-
+Documentation
+-------------
 * Free software: Apache Software License 2.0
 * Documentation: https://LANDRS-Sensor-API.readthedocs.io.
 
